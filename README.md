@@ -1,3 +1,3 @@
 #!/bin/bash
-for shell basics project
+For shell basics project
 
